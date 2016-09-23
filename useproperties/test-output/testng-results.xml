@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11407" started-at="2016-09-06T06:56:17Z" finished-at="2016-09-06T06:56:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11407" started-at="2016-09-06T06:56:17Z" finished-at="2016-09-06T06:56:29Z">
+      <class name="useproperties.useproperties">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:useproperties.useproperties@6d78f375]" name="beforeClass" is-config="true" duration-ms="15" started-at="2016-09-06T12:26:17Z" finished-at="2016-09-06T12:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:useproperties.useproperties@6d78f375]" name="f" duration-ms="11370" started-at="2016-09-06T12:26:17Z" finished-at="2016-09-06T12:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="second()[pri:0, instance:useproperties.useproperties@6d78f375]" name="second" duration-ms="5" started-at="2016-09-06T12:26:29Z" finished-at="2016-09-06T12:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="third()[pri:0, instance:useproperties.useproperties@6d78f375]" name="third" duration-ms="1" started-at="2016-09-06T12:26:29Z" finished-at="2016-09-06T12:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:useproperties.useproperties@6d78f375]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-09-06T12:26:29Z" finished-at="2016-09-06T12:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- useproperties.useproperties -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
